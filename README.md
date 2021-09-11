@@ -4,4 +4,6 @@
 - 💞️ I’m looking to collaborate on games.
 - 📫 How to reach me: @juliobillet on Twitter and Instagram.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" href="https://python.org/"> ❤️
+<!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" href="https://python.org/"> ❤️
+-->
+<a href="https://python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a> ❤️

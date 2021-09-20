@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juliobillet
-- 👀 I’m interested in game development.
-- 🌱 I’m currently learning python for game development.
-- 💞️ I’m looking to collaborate on games.
+- 👀 I’m interested in development in general.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking forward to collaborate on games, but also would love to work on any development project.
 - 📫 How to reach me: @juliobillet on Twitter and Instagram.
 
 

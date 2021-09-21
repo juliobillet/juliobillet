@@ -51,5 +51,5 @@ print(f"{this_is_my.name}\n{this_is_my.pronouns}\n{this_is_my.codes}\n{this_is_m
 </p>
 
 <p align="center">
-  <img src="https://atde.com.br/wp-content/uploads/2021/09/download20210901214329.png" width="45%" align="center">
+  <img src="https://atde.com.br/wp-content/uploads/2021/09/download20210901214329.png" width="30%" align="center">
 </p>

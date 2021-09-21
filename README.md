@@ -49,3 +49,7 @@ print(f"{this_is_my.name}\n{this_is_my.pronouns}\n{this_is_my.codes}\n{this_is_m
 &nbsp&nbsp
     <img src="https://img.shields.io/badge/-PyCharm-000?logo=https://e7.pngegg.com/pngimages/211/917/png-clipart-pycharm-integrated-development-environment-jetbrains-intellij-idea-python-others-miscellaneous-angle.png/png&labelColor=1F2430&color=1F2430"></img>
 </p>
+
+<p align="center">
+  <img src="https://atde.com.br/wp-content/uploads/2021/09/download20210901214329.png" width="100%" align="center">
+</p>

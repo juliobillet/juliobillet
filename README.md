@@ -2,7 +2,7 @@
   <img src="https://c.tenor.com/mGgWY8RkgYMAAAAM/hello-world.gif" width="440" align="center">
 </p>
 
-# 🏳️‍🌈 Hey stranger, welcome to my confy little corner here at GitHub! 🏳️‍🌈
+# 🏳️‍🌈Hey stranger, welcome to my confy little corner here at GitHub!🏳️‍🌈
 
 
 - 👋 Hi, I’m @juliobillet

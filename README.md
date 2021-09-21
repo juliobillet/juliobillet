@@ -26,7 +26,9 @@ this_is_my = Me("Júlio Billet", "pronouns = they/them", "codes = Python", "tool
 print(f"{this_is_my.name}\n{this_is_my.pronouns}\n{this_is_my.codes}\n{this_is_my.tools}")
 ```
 
-
+<p align="center">
+  <img src="https://atde.com.br/wp-content/uploads/2021/09/print-result.gif" width="500" align="center">
+</p>
 
 
 <a href="https://python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a> ❤️

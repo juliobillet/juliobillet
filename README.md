@@ -7,28 +7,33 @@
 
 - 👋 Hi, I’m @juliobillet
 - 👀 I’m interested in development in general.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking forward to collaborate on games, but also would love to work on any development project.
+- 🌱 I’m currently graduating in Data Science.
+- 💞️ I’m looking forward to collaborate on projects of any sorts, by I hold a place in my heart for games and would love to work in any way related to it.
 - 📫 How to reach me: @juliobillet on Twitter and Instagram.
 
 
 ## My info: 📋
 ```python
 class Me:
-  def __init__(self, name, pronouns, codes, tools):
-    self.name = name
-    self.pronouns = pronouns
-    self.codes = codes
-    self.tools = tools
-        
-this_is_my = Me("Júlio Billet", "pronouns = they/them", "codes = Python", "tools = Replit.com, Visual Studio Code, Sublime Text, PyCharm")
+  def __init__(self):
+    self.name = "Júlio Billet"
+    self.pronouns = "they/them"
+    self.codes = "Python, JavaScript, C, HTML, CSS and Lua"
+    self.tools = "Visual Studio Code, Sublime Text, PyCharm, MySQL Workbench, Pandas, OpenRefine, Seaborn, Scikit-Learn, Matplotlib, Numpy, Jupyter Notebook, Google Colab, Git, GitHub, PostgreSQL, MySQL, SQLite, NLTK, rvest, Tidyverse, dplyr, spaCy, gensim.models."
 
-print(f"{this_is_my.name}\n{this_is_my.pronouns}\n{this_is_my.codes}\n{this_is_my.tools}")
+this_is_my = Me()
+
+print(f"My name is {this_is_my.name}\n"
+      f"My pronouns are: {this_is_my.pronouns}\n"
+      f"I code in {this_is_my.codes}\n"
+      f"Known tools: {this_is_my.tools}"
+      )
+
 ```
 
-<p align="center">
-  <img src="https://atde.com.br/wp-content/uploads/2021/09/print-result.gif" width="500" align="center">
-</p>
+<!--- <p align="center"> --->
+<!---  <img src="https://atde.com.br/wp-content/uploads/2021/09/print-result.gif" width="500" align="center"> --->
+<!---</p> --->
 
 
 <a href="https://python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a> ❤️
